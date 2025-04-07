@@ -7,6 +7,8 @@ In a microservices architecture, effective log management is crucial for operati
 ---
 
 ## System Architecture & Flow
+![image](https://github.com/user-attachments/assets/822f10fe-ee12-40a5-be30-d0e5a2f85938)
+
 
 ### Components:
 
