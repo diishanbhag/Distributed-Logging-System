@@ -6,7 +6,7 @@ In a microservices architecture, effective log management is crucial for operati
 
 ---
 
-## 🏗 System Architecture & Flow
+## System Architecture & Flow
 
 ### Components:
 
@@ -44,9 +44,9 @@ In a microservices architecture, effective log management is crucial for operati
 
 ---
 
-## 🧩 Log Schema & Metadata
+## Log Schema & Metadata
 
-### 📌 Microservice Registration
+###  Microservice Registration
 ```json
 {
   "node_id": "<unique node-id>",
